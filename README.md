@@ -4,4 +4,5 @@ I'm a computer science student at QUT in Brisbane, Australia. Passionate softwar
 
 Currently learning: 
 
-- Test
+- React
+- Java
