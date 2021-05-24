@@ -11,5 +11,3 @@ I'm a computer science student at QUT in Brisbane, Australia. Passionate softwar
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ben04rogers&show_icons=true&locale=en&layout=compact" alt="ben04rogers" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ben04rogers&show_icons=true&locale=en" alt="ben04rogers" /></p>
