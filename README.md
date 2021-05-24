@@ -2,6 +2,11 @@
 
 I'm a computer science student at QUT in Brisbane, Australia. Passionate software developer with particular interest in web development. 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ben-rogers-a3b013140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ben-rogers-a3b013140" height="30" width="40" /></a>
+</p>
+
 **Languages and Tools:**  
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 <code><span class="iconify" data-icon="logos:react" data-inline="false" data-width="20" data-height="20"></span></code>
