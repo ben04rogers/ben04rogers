@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ben</h1>
-<h3 align="center">Web developer in brisbane</h3>
-
 I'm a computer science student at QUT in Brisbane, Australia. Passionate software developer primarily focused in web development. 
 
 **Languages and Tools:**  
