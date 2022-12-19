@@ -1,5 +1,5 @@
 ### 🚀 About Me
-Software developer in Brisbane, Australia. I'm also a final year computer science student at QUT. 
+Software developer in Brisbane, Australia. Currently working with TypeScript, Node.js, React.js, PHP & AWS. 
 
 ### 📫 Reach Out
 
