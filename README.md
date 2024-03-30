@@ -1,5 +1,5 @@
 ### 🚀 About Me
-Software developer in Brisbane, Australia. Currently working with TypeScript, Node.js, React.js, PHP, Symfony & AWS. 
+Software developer in Brisbane, Australia. Currently working with Laravel, React.js and GraphQL.
 
 ### 📫 Reach Out
 
