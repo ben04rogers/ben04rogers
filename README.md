@@ -1,2 +1,2 @@
 ### 🚀 About Me
-Software Engineer in Brisbane, Australia. Currently working with Laravel, React.js, GraphQL and AWS.
+Software Engineer at Humanforce working in the platform team. Currently working with PHP, Laravel, TypeScript, Node.js, React.js, GraphQL and AWS.
