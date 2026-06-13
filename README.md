@@ -1,6 +1,6 @@
 ### About Me
 
-🚀 Full-stack Software Engineer at Humanforce, building core platform features
+🚀 Full-stack Software Engineer at Humanforce in the Platform team
 
 💡 Interested in distributed systems, developer experience and building high performance software
 
